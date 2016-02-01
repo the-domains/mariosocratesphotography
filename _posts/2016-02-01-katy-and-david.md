@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Wedding
-datePublished: '2016-02-01T15:10:08.348Z'
-dateModified: '2016-02-01T15:10:05.446Z'
+datePublished: '2016-02-01T15:09:39.495Z'
+dateModified: '2016-02-01T15:09:34.595Z'
 title: 'Katy & David'
 author: []
 sourcePath: _posts/2016-02-01-katy-and-david.md
