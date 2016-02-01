@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Wedding
-datePublished: '2016-02-01T15:10:08.327Z'
-dateModified: '2016-02-01T15:10:05.446Z'
+datePublished: '2016-02-01T15:11:18.534Z'
+dateModified: '2016-02-01T15:11:13.365Z'
 title: 'Katy & David'
 author: []
 sourcePath: _posts/2016-02-01-katy-and-david.md
@@ -29,6 +29,7 @@ _type: Article
 Recently, I had the pleasure to photograph Katy and David's wedding.
 
 Katy looks after our dog Gus. Well more than looks after, as he is equally loved by Katy, David and their three children as he is by my wife and me. Add to that Gus has two ready made playmates in Ralfie and Ginger we sometimes find it difficult to get him to come home in the evening.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5dfcf8b-0726-4eab-b964-596fc31b480f.jpg)
 
 The ceremony took place at a venue called The High Rocks, Tunbridge Wells. If vertigo is not a problem and the spirit is willing it's a wonderful and picturesque location. But come prepared for a bit of rock climbing!
 
