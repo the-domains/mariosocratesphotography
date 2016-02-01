@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: Wedding
-datePublished: '2016-02-01T15:11:18.588Z'
-dateModified: '2016-02-01T15:11:13.365Z'
+datePublished: '2016-02-01T15:14:17.698Z'
+dateModified: '2016-02-01T15:14:11.753Z'
 title: 'Katy & David'
 author: []
 sourcePath: _posts/2016-02-01-katy-and-david.md
@@ -19,13 +19,9 @@ publisher:
   url: null
   favicon: null
 url: katy-and-david/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/152ca8ac-6051-436f-b93c-876ad3c79113.jpg)
-
-# Katy & David
-
 Recently, I had the pleasure to photograph Katy and David's wedding.
 
 Katy looks after our dog Gus. Well more than looks after, as he is equally loved by Katy, David and their three children as he is by my wife and me. Add to that Gus has two ready made playmates in Ralfie and Ginger we sometimes find it difficult to get him to come home in the evening.
