@@ -5,23 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-01T15:07:34.611Z'
-dateModified: '2016-02-01T15:07:18.197Z'
+description: Wedding
+datePublished: '2016-02-01T15:09:39.499Z'
+dateModified: '2016-02-01T15:09:34.595Z'
 title: 'Katy & David'
 author: []
+sourcePath: _posts/2016-02-01-katy-and-david.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-katy-and-david.md
-published: true
 url: katy-and-david/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/152ca8ac-6051-436f-b93c-876ad3c79113.jpg)
+
 # Katy & David
 
 Recently, I had the pleasure to photograph Katy and David's wedding.
