@@ -21,7 +21,7 @@ color:
     - '#868686'
     - '#656565'
     - '#dadada'
-  brandStrength: 0.5
+  brandStrength: 0.4375
   lightness: 0.375
   saturation: 0.6875
   rhythmicContrast: 0.25
